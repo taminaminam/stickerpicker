@@ -1,6 +1,21 @@
 {
   "packs": [
-    "Nekosticker565.json"
+    "Nekosticker565.json",
+    "nekostickerpack369.json",
+    "catgirlnecoco4.json",
+    "verygay.json",
+    "cybercyber.json",
+    "DragonsPride.json",
+    "AntifascistAction.json",
+    "rtraa.json",
+    "pride_hearts.json",
+    "pride_sticker.json",
+    "NordsPack.json",
+    "LINE_China_Girl_Sticker_ENG.json",
+    "LINE2_Magic_Cat_Girl.json",
+    "Girlslovestorycookies.json",
+    "gaysounds.json",
+    "LINE_CatGirl_Sticker_ENG_dark.json"
   ],
   "homeserver_url": "https://fairydust.space"
 }
